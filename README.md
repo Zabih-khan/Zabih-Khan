@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on (Machine Learning) and Artificial Intelligence
-- 📫 How to reach me ... Zabihullah18381@gmail.com
+- 📫 How to reach me  zabihullah18381@gmail.com
 
 <!---
 zabihullah18381/zabihullah18381 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
