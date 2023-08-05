@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zabihullah18381
+- 👋 Hi, I’m Zabihullah
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on (Machine Learning) and Artificial Intelligence
