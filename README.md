@@ -7,10 +7,10 @@
 <table>
 <tr>
   <td width="48%">
-    <img src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=Zabih-programs&custom_title=GitHub+Stats&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=Zabih-khan&custom_title=GitHub+Stats&show_icons=true&theme=radical" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zabih-programs&layout=compact&theme=radical" width="100%" />
     </td>
-    <img src="https://komarev.com/ghpvc/?username=Zabih-programs&color=green&style=plastic" />
+    <img src="https://komarev.com/ghpvc/?username=Zabih-khan&color=green&style=plastic" />
 
   </td>
 
