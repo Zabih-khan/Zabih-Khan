@@ -14,8 +14,8 @@
   
 <div align="center"> 
  <a href="https://www.kaggle.com/zabihullah18" target="_blank"><img src="https://img.shields.io/static/v1?message=kaggle&logo=kaggle&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="kaggle logo" target="_blank"></a> 
-  <a href="mailto:elvisabner@gmail.com"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/elvisestevez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" target="_blank"></a> 
+  <a href="mailto:Zabihullah18381@gmail.com"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/zabih-ullah/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" target="_blank"></a> 
 </div>
 
 <br>
