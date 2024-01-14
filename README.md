@@ -64,7 +64,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zabih-khan/Zabih-khan/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/Zabih-khan/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/Zabih-khan/Zabih-khan/output/github-contribution-grid-snake.svg">
+  <img src="https://user-images.githubusercontent.com/Zabih-khan/Zabih-khan/output/github-contribution-grid-snake.svg">
 </picture>
   <br>
   <br>
