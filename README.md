@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  Hi, I'm a Machine learning eng 👨‍💻 </h3>
+  Hi, I'm a Machine learning Eng 👨‍💻 </h3>
   <p align="center">
   💻 I love to learn new technologies and frameworks. </p>
    <p align="center">
