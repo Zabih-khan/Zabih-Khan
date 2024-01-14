@@ -57,10 +57,19 @@
 </tr>
 <table>
     <img src="https://komarev.com/ghpvc/?username=Zabih-khan&color=green&style=plastic" />
+<div align="center">
 <h2 align="center">🐍 Snake 🐍</h2>
 
-  ![snake gif](https://github.com/Zabih-khan/Zabih-khan/blob/output/github-contribution-grid-snake-dark.svg)
-
+  <br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zabih-khan/Zabih-khan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/Zabih-khan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Zabih-khan/Zabih-khan/output/github-contribution-grid-snake.svg">
+</picture>
+  <br>
+  <br>
+  <br>
+</div>
 <!---
 zabihullah18381/zabihullah18381 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
