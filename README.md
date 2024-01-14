@@ -18,7 +18,8 @@
 
 </tr>
 <table>
-
+  
+![snake gif](https://github.com/Zabih-khan/Zabih-khan/blob/output/github-contribution-grid-snake-dark.svg)
 <!---
 zabihullah18381/zabihullah18381 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
