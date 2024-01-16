@@ -58,7 +58,7 @@
 <table>
     <img src="https://komarev.com/ghpvc/?username=Zabih-khan&color=green&style=plastic" />
 <div align="center">
-<h2 align="center">🐍 Snake 🐍</h2>
+<h2 align="center">🐍 Snake Eat My Contribution 🐍</h2>
 
   <br>
 <picture>
