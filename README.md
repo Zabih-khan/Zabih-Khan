@@ -60,8 +60,6 @@
 <div align="center">
 <h2 align="center">🐍 Snake Eat My Contribution 🐍</h2>
 
-// readme
-
   <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zabih-khan/Zabih-khan/output/github-contribution-grid-snake-dark.svg">
