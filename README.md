@@ -3,7 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!;My+name+is+Elvis+Estevez!;&center=true&size=30](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&repeat=false&width=435&lines=Hi+There!+;I'm+Zabih+ullah">
   </a>
 </h1>
-
 <h3 align="center">
   Hi, I'm a Machine learning Eng 👨‍💻 </h3>
   <p align="center">
