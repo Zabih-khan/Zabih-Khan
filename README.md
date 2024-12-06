@@ -19,28 +19,6 @@
 
 <br>
 
-<h2 align="center">🖌️ Programming Languages 🌐</h2>
-<br>
-<p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=python,java" /><br>
-  </a>
-</p>
-<br>
-<h2 align="center"> 💻 Libraries and Frameworks 🚀</h2>
-<br>
-<p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=django,tensorflow,flask,spring" /><br>
-  </a>
-</p>
-<br>
-<h2 align="center">Learning</h2>
-<p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=python" />
-  </a>
-</p>
 <h2 align="center">⚡ Stats ⚡</h2>
 
 
@@ -70,4 +48,3 @@
   <br>
 </div>
 
-<center><a href="https://www.buymeacoffee.com/zabih"><img src="https://www.codehim.com/wp-content/uploads/2022/09/bmc-button-640x180.png.webp" alt="Buy Me A Coffee" style="height: 80px; width: 300px; box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></center>
