@@ -1,8 +1,11 @@
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!;My+name+is+Elvis+Estevez!;&center=true&size=30](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&repeat=false&width=435&lines=Hi+There!+;I'm+Zabih+ullah">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Hi+There!+;My+name+is+Zabih+Ullah!+;Welcome+to+my+profile!+;Enjoy+your+visit!+" alt="Typing Animation">
   </a>
 </h1>
+
+
+
 <h3 align="center">
   Hi, I'm a AI engineer 👨‍💻 </h3>
   <p align="center">
